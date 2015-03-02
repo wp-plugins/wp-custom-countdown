@@ -22,6 +22,9 @@ Options included via shortcode:
 *   Countdown timer background color
 *   Countdown timer padding
 
+Live Preview: http://plugins.bishawjit.me/wp-custom-countdown/
+
+Please feel free rate it and donate. Thanks.
 
 == Installation ==
 
