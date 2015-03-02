@@ -3,7 +3,7 @@
 Plugin Name: Wp Custom Countdown
 Plugin URI: http://plugins.bishawjit.me/wp-custom-countdown/
 Description: Adds nice and clean circular countdown in your site. Fully customizable with options panel. Let's Enjoy!
-Version: 1.1
+Version: 1.2
 Author: Bishawjit Das
 Author URI: http://plugins.bishawjit.me/
 License: GPLv2 or later
