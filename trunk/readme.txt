@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: bishawjit-das
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bishawjit387%40gmail%2ecom&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Tags: countdown, timer, clock, watch
+Tags: countdown, timer, clock, watch, count down
 Requires at least: 3.1
 Tested up to: 4.1.1
 Stable tag: 1.1
